@@ -26,6 +26,10 @@ Hello! I'm Sulagna Dey, an MSc Computer Science graduate from St. Xavier's Colle
 - Built a Tableau dashboard to visualize crime data (2023-25), identifying "Other theft" (22%) and "Violence and sexual offences" (17%) as top crime types.
 - Mapped crime hotspots and uncovered seasonal trends, with spikes in July and August 2024.
 - [View on Tableau Public](https://public.tableau.com/views/CityofLondonCrimeData/CityofLondonCrimeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+#### Deloitte Australia Data Analytics
+ - [View on Tableau Public](https://public.tableau.com/views/Book1_17414675213230/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 #### MambaBERT: Efficient Long-Text Sentiment Analysis
 - Developed a hybrid Mamba SSM-powered BERT model in Python for efficient sentiment analysis of long textual sequences.
 - Reduced computational resource requirements while maintaining high accuracy in Linux-based cloud environments.
