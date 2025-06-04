@@ -34,10 +34,10 @@ Hello! I'm Sulagna Dey, an MSc Computer Science graduate from St. Xavier's Colle
 - **Software Development**: Python, Java, C
 
 ### 📜 Certifications
-- Tata Data Visualisation: Empowering Business with Effective Insights
-- Tata GenAI Powered Data Analytics
-- Deloitte Australia Data Analytics Job Simulation
-- Certificate in Python and R Programming (St. Xavier's College, Kolkata)
+- [Tata Data Visualisation](https://drive.google.com/file/d/1NIMDYRC6SvZrG3blx1qJetEQAsru8kv7/view): Empowering Business with Effective Insights
+- [Tata GenAI Powered Data Analytics](https://drive.google.com/file/d/1MX1hTRSB6BTK9qzrdoRXdz3inPMsX0c8/view)
+- [Deloitte Australia Data Analytics Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_C3aAB4eBTGbP3fct6_1741469267759_completion_certificate.pdf)
+- [Certificate in Python and R Programming](https://drive.google.com/file/d/1x4lhfrNrF6rpaJLf8j2MJa-JRoZGg1nV/view)
 - Bootcamp on Big Data and Data Science (NIELIT, Ministry of Electronics and IT, India)
 - Bootcamp on Blockchain and Big Data Analytics (NIELIT, Ministry of Electronics and IT, India)
 
