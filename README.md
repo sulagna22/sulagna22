@@ -18,6 +18,10 @@ Hello! I'm Sulagna Dey, an MSc Computer Science graduate from St. Xavier's Colle
 - Analyzed email campaign performance metrics (open rates, click-through rates), driving a 60% improvement in campaign effectiveness.
 
 ### 🚀 Projects
+#### Online Retail Analysis for Executives - StrategicGrowth Visualization
+- Built a Tableau dashboard to visualize stratagic growth using [Online Retail Data Set](https://docs.google.com/spreadsheets/d/1DlDtfjq5V_0Tqeenca7tCG1KIhkCfcoD/edit?usp=sharing&ouid=108227641146560511725&rtpof=true&sd=true)
+- [View on Tableau Public](https://public.tableau.com/shared/ZXYS9KGC8?:display_count=n&:origin=viz_share_link)
+
 #### City of London Crime Data Visualization
 - Built a Tableau dashboard to visualize crime data (2023-25), identifying "Other theft" (22%) and "Violence and sexual offences" (17%) as top crime types.
 - Mapped crime hotspots and uncovered seasonal trends, with spikes in July and August 2024.
