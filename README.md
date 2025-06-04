@@ -22,6 +22,9 @@ Hello! I'm Sulagna Dey, an MSc Computer Science graduate from St. Xavier's Colle
 - Built a Tableau dashboard to visualize stratagic growth using [Online Retail Data Set](https://docs.google.com/spreadsheets/d/1DlDtfjq5V_0Tqeenca7tCG1KIhkCfcoD/edit?usp=sharing&ouid=108227641146560511725&rtpof=true&sd=true)
 - [View on Tableau Public](https://public.tableau.com/shared/ZXYS9KGC8?:display_count=n&:origin=viz_share_link)
 
+#### GenAI	Powered	Data	Analytics
+- Built [EDA Summery Report](https://drive.google.com/file/d/1sZ6e81WTbQMuhE5C5u3iPflNxnaIOTJC/view?usp=drive_link), [Predictive Model Plan](https://drive.google.com/file/d/1CzhMzdyIDw-40z2tfru7lQqoN5T7eYLy/view?usp=sharing), [Business Summary Report](https://drive.google.com/file/d/1m_HuvmyCQ1Bfn_hg2WeTwLFOtW3GYTGD/view?usp=drive_link) and a [presentation](https://docs.google.com/presentation/d/1QBxb48YIHHxuhiorhrXQhfaJRtezfqUZ/edit?usp=drive_link&ouid=108227641146560511725&rtpof=true&sd=true) based on [Delinquency_prediction_dataset](https://docs.google.com/spreadsheets/d/1RqOubCgHyPaSWHQbqKcqDfxDiizNGbwC/edit?usp=drive_link&ouid=108227641146560511725&rtpof=true&sd=true)
+
 #### City of London Crime Data Visualization
 - Built a Tableau dashboard to visualize crime data (2023-25), identifying "Other theft" (22%) and "Violence and sexual offences" (17%) as top crime types.
 - Mapped crime hotspots and uncovered seasonal trends, with spikes in July and August 2024.
